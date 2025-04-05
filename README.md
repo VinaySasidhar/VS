@@ -2,7 +2,7 @@
 
 🎯 Senior Security Engineer | Cybersecurity Specialist
 
-🔐 Passionate about system cyber security
+🔐 Passionate about cyber security
 
 📍 Currently working at BOSCH | Previously worked on SCADA IDS using ML
 
